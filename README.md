@@ -74,4 +74,4 @@ flutter test
 
 ## GitHub
 
-Repository: https://github.com/Vanil-CEO/CineMind-movie-ai
+
