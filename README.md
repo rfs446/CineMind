@@ -72,6 +72,6 @@ flutter test
 - [Daily progress log](docs/progress/daily-progress.md)
 - [Week 3 summary](docs/progress/week-3-summary.md)
 
-## GitHub
+
 
 
